@@ -78,8 +78,6 @@ Save the file and create a PR, sit back and wait until we approve your PR, ofc, 
 **Check out if your name shows up at**
 
 **[HF 2K20 Contributors](https://osftw2020.herokuapp.com/)**
-### Prerequisites
-
 
 ## ✍️ Authors <a name = "authors"></a>
 
